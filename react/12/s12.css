@@ -1,0 +1,42 @@
+*{background-color: #393c46;
+
+
+}
+.heading{
+  color:#4ECCA3;
+  font-size: 10vh;
+      font-family: 'Lobster', cursive;
+      text-shadow: 5px 10px #232931;
+      text-align: center;
+      text-transform: capitalize;
+}
+
+.player{
+  text-align: center;
+  margin-top: 40vh;
+  font-size: 5vh;
+  text-shadow: 2px 2px blue;
+word-spacing: 12px;
+
+}
+footer{
+  padding-top: 10px;
+  color: black;
+  text-decoration: underline;
+  color: black;
+
+  text-align: center;
+  font-size: 3vh;
+}
+footer a{
+  color: black;
+}
+.dice img {
+  display: inline;
+
+
+}
+.dice{
+  display: flex;
+  
+}
